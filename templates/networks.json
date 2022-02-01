@@ -1,0 +1,24 @@
+[
+    {
+      "network_name": "Test",
+      "network_region": "",
+      "ipsec_termination_node": "",
+      "network_subnets_1": "",
+      "network_subnets_2": "",
+      "network_subnets_3": "",
+      "network_subnets_4": "",
+      "network_qos_profile": "",
+      "tunnel_1_name": "",
+      "tunnel_2_name": "",
+      "bgp_peer_as_1": "",
+      "bgp_peer_address_1": "",
+      "bgp_local_address_1": "",
+      "bgp_secret_1": "",
+      "bgp_peer_address_2": "",
+      "bgp_local_address_2": "",
+      "bgp_secret_2": "",
+      "bgp_summarize_mobile_user_routes": "",
+      "bgp_originate_default_route": "",
+      "bgp_do_not_export_routes": ""
+    }
+  ]
